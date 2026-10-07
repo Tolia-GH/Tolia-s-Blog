@@ -71,4 +71,4 @@ $$
 
 而更为有趣的是，这篇文章的作者在尝试使用微分方程思想回顾自己和前女友的感情时，提到自己的方程忽略了一个重要因素：他女朋友的前任想要回到她的身边，这一二元感情系统中不得不引入一个新的变量：第三者。于是整个系统陷入了三体问题的无解混沌
 
-[^1]: Strogatz, S. H. (1994) “Nonlinear Dynamics and Chaos.” Perseus, Cambridge, MA.
+[^1]: [Strogatz, S. H. (1994) “Nonlinear Dynamics and Chaos.” Perseus, Cambridge, MA.](https://www.biodyn.ro/course/literatura/Nonlinear_Dynamics_and_Chaos_2018_Steven_H._Strogatz.pdf)
