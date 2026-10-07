@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "基于微分方程的爱情建模：从二人世界到“三体问题"
+description: 真正的爱情之路从来都不是一帆风顺 ———— 威廉 · 莎士比亚 《仲夏夜之梦》
+date:   2019-05-23 21:03:36 +0530
+categories: Mathematics
+---
+
 # 基于微分方程的爱情建模：从二人世界到“三体问题”
 
 > The course of true love never did run smooth. —— William Shakespeare, A Midsummer Night's Dream  
