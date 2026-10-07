@@ -1,6 +1,6 @@
 title: Texture Theme
-author: GitHub User
-email: your-email@domain.com
+author: Tolia-GH
+email: 2398768715@qq.com
 description: > # this means to ignore newlines until "show_exerpts:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -19,8 +19,8 @@ kramdown:
   input: GFM
   math_engine: mathjax
 texture:
-  title: Adam Denisov
-  tagline: Developer. Designer
+  title: Tolia's Blog
+  tagline: On my way to the one of the greatest!
   date_format: "%b %-d, %Y"
   style: black
   showNav: false
@@ -29,9 +29,9 @@ texture:
 
   # generate social links in footer
   social_links:
-    twitter: thelehhman
-    github:  thelehhman
-    linkedIn: in/thelehhman
+    github: Tolia-GH
+    linkedIn: in/tolia-ld
+    telegram: @M0_White
     rss: rss
  
 
