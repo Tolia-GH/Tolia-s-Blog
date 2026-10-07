@@ -21,6 +21,7 @@ texture:
   style: black
   showNav: false
   showPicker: false
+  useMathJax: true
 
   # generate social links in footer
   social_links:
