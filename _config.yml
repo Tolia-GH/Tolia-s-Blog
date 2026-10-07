@@ -40,7 +40,7 @@ texture:
 
 plugins:
   - jekyll-seo-tag
+  - jekyll-remote-theme
 #  - jekyll-feed
 
 remote_theme: samarsault/texture
-theme: texture
